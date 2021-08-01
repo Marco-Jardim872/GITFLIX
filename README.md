@@ -1,5 +1,5 @@
 # GITFLIX
-Projeto sugerido pela Digital Innovation One – clone do ambiente do Netflix.
+Projeto sugerido pela D I O – clone do ambiente do Netflix.
 Baseado na plataforma da provedora global de filmes e séries de televisão via streaming foi criado a GITFLIX. A GITFLIX mostra os repositórios do Github, de projetos da Dio e os devs favoritos.
 Todas as imagens são ‘linkadas’ para os respectivos repositórios e/ou perfis respectivos.
 Tecnologias - HTML, CSS, JS, JQUERY.
